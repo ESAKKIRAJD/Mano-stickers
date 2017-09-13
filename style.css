@@ -1,0 +1,38 @@
+body{
+	background-color: #dedede;
+}
+.navbar-default{
+	background-color: #dedede;
+}
+.navbar-header{
+	width: 100%;
+}
+.carousel-inner img{
+  width :100%;
+}
+
+#slide .container-fluid{
+	padding-right: 0;
+	padding-left: 0;
+}
+.container-fluid h2{
+	text-align: center;
+	font-size: 52px;
+
+}
+.container button{
+	margin-bottom: 30px;
+}
+.container .images img{
+height: 170px;
+width: 260px;
+}
+#section-contact{
+	background-color: #333;
+	color: #fff;
+	margin-top: 20px;
+}
+.fa-2x{
+	float: left;
+	padding-right: 18px;
+}
